@@ -52,18 +52,7 @@ Itulah mental yang ingin saya bangun.
 
 ---
 
-##  Jujur: Skill Tree Saya Hari Ini
-
-Kalau hidup ini RPG, ini stats saya sekarang:
-
-```
-[KARI / M4sterC4t — Level: Pemula yang Sadar Diri]
-
-STR (Problem Solving)     ████░░░░░░  40%
-INT (Teori CS)            ███░░░░░░░  30%
-DEX (Nulis Kode Cepat)    ████░░░░░░  45%
-WIS (Tau Kapan Googling)  ████████░░  80%  ← ini yang penting
-LUK (Nemuin Bug by Acc.)  ██████████  99%
+##  Skill Tree Saya Hari Ini
 
 Skill Aktif:
   ✅ n8n workflow automation
