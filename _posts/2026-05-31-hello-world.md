@@ -54,6 +54,7 @@ Itulah mental yang ingin saya bangun.
 
 ##  Skill Tree Saya Hari Ini
 
+```
 Skill Aktif:
   ✅ n8n workflow automation
   ✅ Nanya ke AI dengan benar (prompt engineering)
@@ -66,7 +67,7 @@ Tidak ada yang 100%. Dan saya tidak berbohong soal itu.
 
 ---
 
-## 💡 Hal yang Tidak Diajarkan di Kampus
+##  Hal yang Tidak Diajarkan di Kampus
 
 Dosen mengajarkan algoritma.  
 Internet mengajarkan framework.  
